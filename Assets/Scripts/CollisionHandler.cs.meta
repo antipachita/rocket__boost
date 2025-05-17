@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 432844020df6095449755b07be70bb9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crush: {fileID: 8300000, guid: 9448a682cb318d54bb6907c064ea6d7b, type: 3}
+  - successAudio: {fileID: 8300000, guid: a81398d0c4c80d843a1158354a685db8, type: 3}
+  - crushParticle: {fileID: 6746392611859143694, guid: bd1f6b64e76fe8c408e0adc342b99d5c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
