@@ -321,6 +321,26 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!1 &376506930 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 608963069608366686, guid: ea4d2bf35b06243438eb9bfad2614f14, type: 3}
+  m_PrefabInstance: {fileID: 583515134901370263}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &376506935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 376506930}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3daa56f345f434d8d067120e5444f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementVector: {x: 5, y: 0, z: 0}
+  movementFactor: 0
+  period: 2
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1341,7 +1361,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 608963069608366686, guid: ea4d2bf35b06243438eb9bfad2614f14, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 376506935}
   m_SourcePrefab: {fileID: 100100000, guid: ea4d2bf35b06243438eb9bfad2614f14, type: 3}
 --- !u!1001 &5424766116475215376
 PrefabInstance:
