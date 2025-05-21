@@ -31,8 +31,8 @@ public class CollisionHandler : MonoBehaviour
 
     void Update()
     {
-        SkipLvl(); 
-        OffCollider();
+        // SkipLvl(); 
+        // OffCollider();
     }
 
     void OnCollisionEnter(Collision other)
